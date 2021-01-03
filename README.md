@@ -3,8 +3,18 @@
 Mimics a virtual von Neumann architecture with:
 
 :heavy_check_mark: `ArrayBuffer` used for Memory & Registers
+
 :heavy_check_mark: JavaScript Class for CPU operations like fetching memory, executing instructions
+
 :heavy_check_mark: Limited assembly language defined using JavaScript binary hexadecimal literals
+
+## Installation
+
+Run using Node.js with:
+
+```bash
+$ node index.js
+```
 
 ## Credits
 
